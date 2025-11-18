@@ -20,7 +20,7 @@ path = ".."
 features = ["trace"]
 
 # Prevent this from interfering with workspaces
-[workspace]
+#[workspace]
 members = ["."]
 
 [[bin]]

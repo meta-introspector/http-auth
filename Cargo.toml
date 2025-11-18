@@ -13,7 +13,7 @@ categories = [
     "web-programming::http-client",
 ]
 repository = "https://github.com/scottlamb/http-auth"
-rust-version = "1.70.0"
+# rust-version = "1.70.0"
 
 [features]
 default = ["basic-scheme", "digest-scheme"]
